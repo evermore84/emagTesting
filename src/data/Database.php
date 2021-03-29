@@ -6,6 +6,6 @@ class Database
 {
     public function __construct()
     {
-        echo "made a database <br>";
+        echo "made a database <br>"; //comment here 
     }
 }
